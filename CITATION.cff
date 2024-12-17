@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: A Research Software
+abstract: Software description
+type: software
+authors:
+- family-names: Doe
+  given-names: Jane
+  orcid: 0000-0002-7407-9095
+- family-names: Doe
+  given-names: Jon
+affiliation: ...
+version: 2.0.4
+license: CC0-1.0
+date-released: 2024-12-17
